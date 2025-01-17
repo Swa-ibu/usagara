@@ -1,2 +1,2 @@
 # usagara
-This repo for test 
+This repository for test 
